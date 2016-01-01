@@ -8,6 +8,8 @@ int main()
 {
 	printf("hello world!");
 	printf("add second line");
+	printf("add third line");
+
     return 0;
 }
 
